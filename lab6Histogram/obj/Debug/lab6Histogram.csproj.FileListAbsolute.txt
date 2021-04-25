@@ -1,0 +1,10 @@
+C:\Users\pawel\source\repos\lab6Histogram\lab6Histogram\bin\Debug\lab6Histogram.exe.config
+C:\Users\pawel\source\repos\lab6Histogram\lab6Histogram\bin\Debug\lab6Histogram.exe
+C:\Users\pawel\source\repos\lab6Histogram\lab6Histogram\bin\Debug\lab6Histogram.pdb
+C:\Users\pawel\source\repos\lab6Histogram\lab6Histogram\obj\Debug\lab6Histogram.csprojAssemblyReference.cache
+C:\Users\pawel\source\repos\lab6Histogram\lab6Histogram\obj\Debug\lab6Histogram.Form1.resources
+C:\Users\pawel\source\repos\lab6Histogram\lab6Histogram\obj\Debug\lab6Histogram.Properties.Resources.resources
+C:\Users\pawel\source\repos\lab6Histogram\lab6Histogram\obj\Debug\lab6Histogram.csproj.GenerateResource.cache
+C:\Users\pawel\source\repos\lab6Histogram\lab6Histogram\obj\Debug\lab6Histogram.csproj.CoreCompileInputs.cache
+C:\Users\pawel\source\repos\lab6Histogram\lab6Histogram\obj\Debug\lab6Histogram.exe
+C:\Users\pawel\source\repos\lab6Histogram\lab6Histogram\obj\Debug\lab6Histogram.pdb
