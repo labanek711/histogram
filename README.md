@@ -1,3 +1,3 @@
 # histogram
-Na poniższym screenie wstawiłem Zmniejszenie kontrastu obrazu barwnego.
+Na poniższym screenie wstawiłem zmniejszenie kontrastu obrazu barwnego.
 ![Alt text](screen.PNG)
